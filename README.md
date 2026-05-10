@@ -25,12 +25,12 @@ Não é app de matchmaking. É **leitor de padrões** — pra usuária ler o que
 
 ## Funcionalidades
 
-- 🍊 **Mural** — feed editorial com posts da comunidade, reações expressivas (Amei, Brilhou, Red Flag, Livramento, etc) e comentários por categoria
-- 🛡️ **Filtro de Dignidade** — IA analisa relato (texto ou print de conversa) e devolve leitura: nível de red flag, padrão clínico detectado, veredito tentativo
-- 🤖 **Aviso Privado** — quando você posta, a IA detecta padrões recorrentes nos seus relatos e te alerta (só você vê)
-- 📚 **Arquivos** — organizador de momentos por pessoa, com timeline visual, padrão recorrente, alertas configuráveis
-- 🆘 **Modo Acompanhado** — feature de segurança em dates: contato de confiança, code-word, fake call, GPS opcional, ligação de emergência
-- 📊 **Jornada** — raio-X mensal do comportamento do usuário com conquistas e relatórios editoriais
+- **Mural** — feed editorial com posts da comunidade, reações expressivas (Amei, Brilhou, Red Flag, Livramento, etc) e comentários por categoria
+- **Filtro de Dignidade** — IA analisa relato (texto ou print de conversa) e devolve leitura: nível de red flag, padrão clínico detectado, veredito tentativo
+- **Aviso Privado** — quando você posta, a IA detecta padrões recorrentes nos seus relatos e te alerta (só você vê)
+- **Arquivos** — organizador de momentos por pessoa, com timeline visual, padrão recorrente, alertas configuráveis
+- **Modo Acompanhado** — feature de segurança em dates: contato de confiança, code-word, fake call, GPS opcional, ligação de emergência
+- **Jornada** — raio-X mensal do comportamento do usuário com conquistas e relatórios editoriais
 
 ## Stack
 
